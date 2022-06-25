@@ -20,7 +20,9 @@ _El lugar que combina elegancia, excelencia y calidad_
 
 <p style="text-align:center;">![Instagram][icon-Instagram]\ [][Instagram]\| ![Whatsapp][icon-Whatsapp]\ | ![Contacto][icon-Contacto]\ </p>
 
-> Bv. Carcano 476, Villa María, Córdoba, Argentina | Teléfono: +54 353417-3899 | Email: `administracion@winstonbar.com.ar`
+> Bv. Carcano 476, Villa María, Córdoba, Argentina
+> Teléfono: +54 353417-3899
+> Email: `administracion@winstonbar.com.ar`
 
 <p style="text-align:center;">Copyright © Winstonbar</p>
 
